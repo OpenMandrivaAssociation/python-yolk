@@ -7,7 +7,7 @@ Release:	2
 Source0:	http://pypi.python.org/packages/source/y/%{module}/%{module}-%{version}.tar.gz
 License:	GPLv2
 Group:		Development/Python
-Url:		http://tools.assembla.com/yolk/
+Url:		https://tools.assembla.com/yolk/
 BuildArch:	noarch
 BuildRequires:	python-setuptools
 
